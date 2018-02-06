@@ -1,0 +1,20 @@
+{
+  "assetsByChunkName": {
+    "path---otkit-desktop-typography": [
+      "path---otkit-desktop-typography-a0e39f21c11f6a62c5ab.js",
+      "path---otkit-desktop-typography-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-otkit-desktop-typography-js": [
+      "component---src-pages-otkit-desktop-typography-js-3a9c8c6504e39c44af75.js",
+      "component---src-pages-otkit-desktop-typography-js-3a9c8c6504e39c44af75.js.map"
+    ],
+    "commons": [
+      "commons-89721cf82538c454028e.js",
+      "commons-89721cf82538c454028e.js.map"
+    ],
+    "app": [
+      "app-c8c985c460d11295e918.js",
+      "app-c8c985c460d11295e918.js.map"
+    ]
+  }
+}
